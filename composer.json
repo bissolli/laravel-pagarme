@@ -1,7 +1,8 @@
 {
     "name": "bissolli/laravel-pagarme",
     "description": "Laravel 5 package for Pagar.me library",
-    "keywords": ["pagarme", "gateway", "payment", "laravel", "checkout", "intermediary","pagar.me"],
+    "keywords": [ "pagarme", "gateway", "payment", "laravel", "checkout", "intermediary", "pagar.me"],
+    "minimum-stability": "stable",
     "license": "MIT",
     "homepage": "https://github.com/bissolli/laravel-pagarme",
     "authors": [
@@ -27,5 +28,9 @@
             "Bissolli\\LaravelPagarme\\": "src/"
         }
     },
-    "minimum-stability": "stable"
+    "autoload-dev": {
+        "psr-4": {
+            "Bissolli\\LaravelPagarme\\Tests\\": "tests/"
+        }
+    }
 }

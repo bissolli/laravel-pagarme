@@ -2,7 +2,6 @@
 
 namespace Bissolli\LaravelPagarme;
 
-
 use Illuminate\Support\ServiceProvider;
 
 class PagarmeServiceProvider extends ServiceProvider
