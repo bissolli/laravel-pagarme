@@ -16,7 +16,7 @@
         "illuminate/support": "~5.3",
         "dompdf/dompdf": "^0.7.0",
         "nesbot/carbon": "~1.0",
-        "pagarme/pagarme-php": "^3.2",
+        "pagarme/pagarme-php": "^1.1",
         "symfony/http-kernel": "~2.7|~3.0"
     },
     "require-dev": {
