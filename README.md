@@ -5,7 +5,7 @@
 [![Total Downloads](https://poser.pugx.org/bissolli/laravel-pagarme/downloads)](https://packagist.org/packages/bissolli/laravel-pagarme)
 [![License](https://poser.pugx.org/bissolli/laravel-pagarme/license)](https://packagist.org/packages/bissolli/laravel-pagarme)
 
-Package developed to use pagarme/pagarme-php SDK with Laravel 5 since the original library is not compatible thanks to GuzzleHttp version 
+Package developed to use [Pagar.me PHP SDK](https://github.com/pagarme/pagarme-php) with Laravel 5 since the original library is not compatible thanks to GuzzleHttp version 
 
 ## Install
 
@@ -18,7 +18,7 @@ $ composer require bissolli/laravel-pagarme
 ## Usage
 
 ``` php
-
+//
 ```
 
 ## Change log
